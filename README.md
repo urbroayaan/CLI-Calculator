@@ -1,4 +1,4 @@
-# CLI Calculator
+# ✅ **CLI Calculator**
 
 A simple menu-based calculator written in Python.  
 Supports basic math operations and runs in the terminal.
@@ -25,3 +25,4 @@ python CLI_calculator.py
 5. Power
 6. Square Root
 0. Exit
+
